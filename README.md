@@ -52,17 +52,15 @@ bash
 Copy
 Edit
 healthai/
-│
-├── static/
-│   ├── style.css         # Frontend styling
-│   └── script.js         # Frontend JS for charts and AI output
-│
-├── templates/
-│   └── index.html        # Main UI page
-│
-├── app.py                # Flask backend and Gemini AI integration
-├── .env                  # Your API keys (not shared)
-└── README.md             # You're here!
+   ├── static/
+       ├── style.css         # Frontend styling
+       └── script.js         # Frontend JS for charts and AI output
+
+   ├── templates/
+       └── index.html        # Main UI page
+   ├── app.py                # Flask backend and Gemini AI integration
+   ├── .env                  # Your API keys (not shared)
+   └── README.md             # You're here!
 🤖 Powered By
 Flask
 
@@ -85,8 +83,8 @@ HealthAI is for educational and demonstrative purposes only. It is not a replace
  Better error handling and retry logic
 
 📬 Contact
-Created by Your Name
-📧 Email: your@email.com
+Created by Your Name:P.L.V.Sai Ram
+📧 Email: saipolagani00918@gmail.com
 
 Let me know if you want:
 

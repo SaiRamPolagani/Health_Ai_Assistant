@@ -62,9 +62,12 @@ healthai/
    
        └── index.html        # Main UI page
    
-   ├── app.py                # Flask backend and Gemini AI integration
-   ├── .env                  # Your API keys (not shared)
-   └── README.md             # You're here!
+   ├── app.py                # Flask backend and Gemini AI integration/
+
+   ├── .env                  # Your API keys (not shared)/
+   
+   └── README.md             # You're here!/
+   
 🤖 Powered By
 Flask
 

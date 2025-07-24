@@ -52,12 +52,16 @@ bash
 Copy
 Edit
 healthai/
+
    ├── static/
+   
        ├── style.css         # Frontend styling
        └── script.js         # Frontend JS for charts and AI output
 
    ├── templates/
+   
        └── index.html        # Main UI page
+   
    ├── app.py                # Flask backend and Gemini AI integration
    ├── .env                  # Your API keys (not shared)
    └── README.md             # You're here!
